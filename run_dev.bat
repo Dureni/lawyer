@@ -1,1 +1,0 @@
-cmd.exe npm run dev
